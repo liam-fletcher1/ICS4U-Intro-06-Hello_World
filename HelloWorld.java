@@ -1,17 +1,13 @@
 /**
- * The HelloWorld program implements an application that
- * simply displays "Hello World!" to the standard output.
+ * This program simply outputs "Hello, World!" to the console.
  *
  * @author  Liam Fletcher
  * @version 1.0
- * @since   Nov 2021
+ * @since   2021-11-19
  */
 
 public class HelloWorld {
-
     public static void main(String[] args) {
-        // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello, World");
+        System.out.println("Hello, World!");
     }
-
 }
