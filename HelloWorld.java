@@ -1,4 +1,4 @@
-[ERROR] /home/ubuntu/ICS4U/Intro/Intro-05/ICS4U-Intro-05-Hello_World/./HelloWorld.java:12:3: 'method def rcurly' has incorrect indentation level 2, expected level should be 4. [Indentation]
+
 /*
 * The "Hello Word!" program, just proves you can show print to terminal.
 *
